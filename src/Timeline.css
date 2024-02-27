@@ -1,0 +1,59 @@
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 50px auto;
+  }
+
+  .search {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .input {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: #020202;
+    border: 1px solid;
+  }
+  
+  .event {
+    position: relative;
+    max-width: 45%;
+    margin: 50px 0;
+    padding: 20px;
+    background-color: #020202;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+  }
+  
+  .event:nth-child(even) {
+    margin-left: auto;
+    margin-right: 0;
+  }
+  
+  .event::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    height: 2px;
+    background-color: #ffffff;
+  }
+  
+  .event:nth-child(even)::before {
+    right: 100%;
+  }
+  
+  .event:nth-child(odd)::before {
+    left: 100%;
+  }
+  
+  .event h3 {
+    margin-top: 0;
+  }
+  
+  .event p {
+    margin-bottom: 0;
+  }
+  
