@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csdropout1.github.io/csdropout1.github.io,/static/css/main.a8823c3e.css",
+    "main.js": "/csdropout1.github.io/csdropout1.github.io,/static/js/main.560df852.js",
+    "static/js/453.5333ad58.chunk.js": "/csdropout1.github.io/csdropout1.github.io,/static/js/453.5333ad58.chunk.js",
+    "index.html": "/csdropout1.github.io/csdropout1.github.io,/index.html",
+    "main.a8823c3e.css.map": "/csdropout1.github.io/csdropout1.github.io,/static/css/main.a8823c3e.css.map",
+    "main.560df852.js.map": "/csdropout1.github.io/csdropout1.github.io,/static/js/main.560df852.js.map",
+    "453.5333ad58.chunk.js.map": "/csdropout1.github.io/csdropout1.github.io,/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8823c3e.css",
+    "static/js/main.560df852.js"
+  ]
+}
