@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/css/main.a8823c3e.css",
-    "main.js": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/js/main.f340e793.js",
-    "static/js/453.5333ad58.chunk.js": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/js/453.5333ad58.chunk.js",
-    "index.html": "/csdropout1.github.io/csdropout1.github.io/public/index.html/index.html",
-    "main.a8823c3e.css.map": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/css/main.a8823c3e.css.map",
-    "main.f340e793.js.map": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/js/main.f340e793.js.map",
-    "453.5333ad58.chunk.js.map": "/csdropout1.github.io/csdropout1.github.io/public/index.html/static/js/453.5333ad58.chunk.js.map"
+    "main.css": "/csdropout1/csdropout1.github.io/src/index.js/static/css/main.a8823c3e.css",
+    "main.js": "/csdropout1/csdropout1.github.io/src/index.js/static/js/main.011b1d74.js",
+    "static/js/453.5333ad58.chunk.js": "/csdropout1/csdropout1.github.io/src/index.js/static/js/453.5333ad58.chunk.js",
+    "index.html": "/csdropout1/csdropout1.github.io/src/index.js/index.html",
+    "main.a8823c3e.css.map": "/csdropout1/csdropout1.github.io/src/index.js/static/css/main.a8823c3e.css.map",
+    "main.011b1d74.js.map": "/csdropout1/csdropout1.github.io/src/index.js/static/js/main.011b1d74.js.map",
+    "453.5333ad58.chunk.js.map": "/csdropout1/csdropout1.github.io/src/index.js/static/js/453.5333ad58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8823c3e.css",
-    "static/js/main.f340e793.js"
+    "static/js/main.011b1d74.js"
   ]
 }
